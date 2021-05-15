@@ -2,14 +2,14 @@ body {
     /* background: linear-gradient(#e66465, #9198e5); */
 }
 
-img {
+.photo {
     width: 30%;
     margin: 0.5%;
     transition: 0.25s;
     border: 2px solid black;
 }
 
-img:hover {
+.photo:hover {
     box-shadow: 4px 4px #535353;
     transform: translate(-0.2em, -0.2em);
     transition: 0.3s;
